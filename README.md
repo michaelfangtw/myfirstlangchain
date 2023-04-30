@@ -1,6 +1,6 @@
 Myfirstlangchain
 -----
-This is a python Sample to use langchain<br>
+This is a python Sample to use langchain
 ```
 app.py
 ```
@@ -16,8 +16,6 @@ reference youtube video: https://www.youtube.com/watch?v=MlK6SIjcjE8
 3.pip install streamlit langchain openai wikipedia chromadb tiktoken
 
 ```
-
-
 Usage
 ------------
 cmd>set OPENAI_API_KEY='xxxxx'

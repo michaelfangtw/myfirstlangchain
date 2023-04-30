@@ -1,6 +1,5 @@
 import os
 #change to env variable
-#$env:OPENAI_API_KEY='xxxxx'
 #from apikey import apikey
 
 import streamlit as st
