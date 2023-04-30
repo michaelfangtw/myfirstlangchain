@@ -7,7 +7,7 @@ app.py
 Installation
 ------------
 ```
-reference youtube video: https://www.youtube.com/watch?v=MlK6SIjcjE8
+ref to  youtube video: https://www.youtube.com/watch?v=MlK6SIjcjE8
 
 1.git clone myfirstlangchain https://github.com/michaelfangtw/myfirstlangchain.git
 

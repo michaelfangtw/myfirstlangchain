@@ -39,4 +39,3 @@ if prompt:
     print(response['title'])
     st.write(response['script'])
     print(response['script'])
-
